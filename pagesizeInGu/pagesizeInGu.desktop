@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=pagesizeInGu
+Exec=pagesizeInGu
+Icon=pagesizeInGu/pagesizeInGu.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

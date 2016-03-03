@@ -1,0 +1,17 @@
+{
+    "name": "pagesizeingu.liu-xiao-guo",
+    "description": "description of pagesizeInGu",
+    "architecture": "@CLICK_ARCH@",
+    "title": "pagesizeInGu",
+    "hooks": {
+        "pagesizeInGu": {
+            "apparmor": "pagesizeInGu/pagesizeInGu.apparmor",
+            "desktop":  "pagesizeInGu/pagesizeInGu.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
