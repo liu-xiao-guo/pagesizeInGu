@@ -65,6 +65,14 @@ MainView {
             Label {
                 id: client
             }
+
+            Label {
+                text: "1 dp = " + units.dp(1) + " pixels"
+            }
+
+            Label {
+                text: "1 gridUnit = " + units.gridUnit + " pixels"
+            }
         }
 
         Component.onCompleted: {
